@@ -8,7 +8,7 @@ public class check2 {
 		webdriver driver=new edgeDriver();
 		driver.get();
 		driver.findElement();
-		driver.findElements();
+		driver.findElements(); // List of webelements
 		driver.quit();
 		
 		
