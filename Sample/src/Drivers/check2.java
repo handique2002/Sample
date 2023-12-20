@@ -9,7 +9,7 @@ public class check2 {
 		driver.get();
 		driver.findElement();
 		driver.findElements();
-		driver.quit();
+		driver.quit(); // close browser
 		
 		
 		
