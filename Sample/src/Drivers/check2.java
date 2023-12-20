@@ -6,7 +6,7 @@ public class check2 {
 		
 		
 		webdriver driver=new edgeDriver();
-		driver.get(); // launch url
+		driver.get(); // launch url or navigate
 		driver.findElement();
 		driver.findElements(); // List of webelements
 		driver.quit(); // close browser
