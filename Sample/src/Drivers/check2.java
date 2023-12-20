@@ -5,7 +5,7 @@ public class check2 {
 	public static void main(String[] args) {
 		
 		
-		webdriver driver=new edgeDriver();
+		webdriver driver=new safariDriver();
 
 		driver.get(); // launch url or navigate
 		driver.findElement(); //webelement
