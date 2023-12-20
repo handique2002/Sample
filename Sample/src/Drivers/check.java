@@ -5,7 +5,7 @@ public class check {
 	public static void main(String[] args) {
 		
 		String browser="chrome";  //chrome browser
-		webdriver driver;
+		webdriver driver; //define webdriver
 				
 		if(browser.equalsIgnoreCase("Chrome"))
 		{
