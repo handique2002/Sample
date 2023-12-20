@@ -9,7 +9,8 @@ public class check2 {
 		driver.get();
 		driver.findElement();
 		driver.findElements(); // List of webelements
-		driver.quit();
+		driver.quit(); // close browser
+
 		
 		
 		
