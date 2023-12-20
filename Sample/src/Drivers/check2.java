@@ -6,7 +6,7 @@ public class check2 {
 		
 		
 
-		webdriver driver=new safariDriver();
+		webdriver driver=new safariDriver(); // safari browser
 
 
 		driver.get(); // launch url or navigate
